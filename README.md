@@ -1,5 +1,5 @@
 # Context
-A simple not hackable console-editor.
+A simple console-editor.
 
 # Commands
 #? - Help
